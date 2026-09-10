@@ -2,10 +2,10 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:Jordan Cabrera
+- Week:3
+- Lab:1
+- Date:9/10/2026
 
 ## AI Use
 
