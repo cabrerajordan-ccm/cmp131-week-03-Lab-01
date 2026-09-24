@@ -20,19 +20,19 @@ If yes, complete the sections below. If no, write “No AI tool was used” unde
 
 Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
 
-Tool:print("GitHub Copilot")
+Tool:GitHub Copilot
 
 ## Assistance Requested
 
 Describe what you asked the AI tool to help you understand or troubleshoot.
 
-Response:print("I asked the AI tool to help me get started because i was lost with this being my first python lab.")
+Response:I asked the AI tool to help me get started because i was lost with this being my first python lab.
 
 ## How I Used the Assistance
 
 Explain which suggestions you used, changed, or rejected. Do not paste an entire AI conversation.
 
-Response:print("The AI tool also helped me with a couple of ways to write a tag.")
+Response:The AI tool also helped me with a couple of ways to write a tag.
 
 ## Testing and Verification
 
@@ -44,10 +44,10 @@ Response: Before i asked AI tool for help with a tag i kept getting an error but
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:print("I understend how to use different tags other than print.")
+Response:I understend how to use different tags other than print.
 
 ## Summary
 
 Provide any additional information about your use of AI for this lab.
 
-Response: print("Github copilot is overall a great resourceful AI tool.")
+Response: Github copilot is overall a great resourceful AI tool.
